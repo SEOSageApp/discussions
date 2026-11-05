@@ -1,55 +1,18 @@
-<p align="center">
-  <a href="https://seosage.co/"><img src="assets/banner.png?v=7" alt="SEOSage app for Mac: install the desktop SEO audit software with one Homebrew command" width="100%"></a>
-</p>
+# SEOSage discussions
 
-# SEOSage: desktop SEO audit software for Mac and Windows
+Questions, ideas and feedback for [SEOSage](https://seosage.co), the desktop SEO audit software for Mac and Windows.
 
-[**SEOSage**](https://seosage.co/) is desktop SEO audit software for freelancers and small agencies. It crawls every page of your website with no page limits, finds the SEO problems, and exports client-ready reports. It runs on your own computer, so your crawl data stays with you.
+### [Open the discussions →](https://github.com/orgs/SEOSageApp/discussions)
 
-This is the public project page. The app itself is commercial software and its code is not published here.
+- **Q&A:** ask how to do something, or get help with an install or a crawl
+- **Ideas:** suggest a feature or a change
+- **Show and tell:** share a report or a workflow you built with SEOSage
+- **Announcements:** new versions and news from the SEOSage team
 
-## Install on Mac with Homebrew
+**Found a bug?** Start a discussion in Q&A with what you did, what you expected, and your SEOSage version and computer (Mac or Windows).
 
-<p align="center"><img src="assets/install.png?v=7" alt="Terminal showing the brew command to install, update and remove the SEOSage app" width="80%"></p>
+**Something private,** such as your licence or billing? Email [hello@seosage.co](mailto:hello@seosage.co) instead. Please report security issues by email too, not here ([security page](https://seosage.co/security/)).
 
-```sh
-brew install --cask seosageapp/tap/seosage
-```
+---
 
-Update later:
-
-```sh
-brew upgrade --cask seosage
-```
-
-Uninstall:
-
-```sh
-brew uninstall --cask seosage
-```
-
-Works on Apple Silicon (M1, M2, M3, M4) and Intel Macs. Homebrew picks the right file for your Mac. The install file lives in the [SEOSageApp/homebrew-tap](https://github.com/SEOSageApp/homebrew-tap) tap.
-
-**Windows:** use the installer on the [download page](https://seosage.co/download/).
-
-## What you get
-
-Crawl a whole site, see every issue grouped by type, click one to see the pages it affects, then export a report for your client. The screens below are from a real crawl of [marketingly.org](https://marketingly.org/).
-
-<p align="center"><img src="assets/screen-issues.png?v=7" alt="SEOSage app Issues screen listing errors, warnings and notices from a full site crawl" width="90%"></p>
-
-<p align="center"><img src="assets/screen-report.png?v=7" alt="SEOSage app Reports screen with site health score and export to CSV, PDF or PowerPoint" width="90%"></p>
-
-## Licence
-
-SEOSage needs a licence key, and every plan starts with a 14-day free trial. See [pricing](https://seosage.co/pricing/). Paste the key when the app first opens.
-
-## Links
-
-- Website: [seosage.co](https://seosage.co/)
-- Download for Mac and Windows: [seosage.co/download](https://seosage.co/download/)
-- Features: [seosage.co/features](https://seosage.co/features/)
-- SEO crawler: [seosage.co/seo-crawler](https://seosage.co/seo-crawler/)
-- Free SEO tools: [seosage.co/tools](https://seosage.co/tools/)
-- What's new: [seosage.co/changelog](https://seosage.co/changelog/)
-- Support: [hello@seosage.co](mailto:hello@seosage.co)
+New to SEOSage? See the [SEOSageApp overview](https://github.com/SEOSageApp) and [seosage.co](https://seosage.co). On a Mac you can install it with Homebrew: `brew install --cask seosageapp/tap/seosage`
